@@ -1,4 +1,4 @@
-#Leap Music
+# Leap Music
 
 Leap Music is a software based on Leap Motion(https://www.leapmotion.com/)
 
